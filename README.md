@@ -1,11 +1,13 @@
-👨‍💻 Pedro Agrelli 
+Pedro Agrelli
 
-▶️ Estudante de Ciência da Computação | Java | Cloud & DevOps em aprendizado | Backend & Sistemas Robustos
+▶️ Ciência da Computação | Java | Cloud AWS | Backend em formação | DevOps em evolução
 
-- Sou estudante de Ciência da Computação com foco em desenvolvimento Backend e construção de sistemas robustos. Atualmente estudo Java, programação orientada a objetos e estruturas de dados, buscando consolidar uma base sólida em engenharia de software.
+Sou estudante de Ciência da Computação com foco em desenvolvimento Backend e Cloud Computing. Atualmente aprofundo meus estudos em Java, Programação Orientada a Objetos e estruturas de dados, construindo uma base sólida em desenvolvimento de software.
 
-- Possuo conhecimento em Python, e interesse em arquitetura de sistemas, desempenho e boas práticas de desenvolvimento. Meu objetivo é evoluir como desenvolvedor Backend e, no futuro, atuar na área de DevOps, unindo     desenvolvimento e infraestrutura.
+Participo do programa AWS re/Start, onde venho desenvolvendo conhecimentos em computação em nuvem, Linux, infraestrutura e fundamentos de arquitetura de sistemas.
 
-- Estou em constante aprendizado e construção de projetos para aprimorar minhas habilidades técnicas.
+Possuo experiência com Python e grande interesse em arquitetura de software, desempenho e boas práticas de desenvolvimento. Meu objetivo é evoluir como desenvolvedor Backend e, futuramente, atuar na área de DevOps, conectando desenvolvimento e infraestrutura em soluções escaláveis.
 
-📌 Java • Python • Programação orientada a objetos (POO) • Desenvolvimento de back-end • Estruturas de dados
+Estou em constante aprendizado e desenvolvimento de projetos práticos para fortalecer minhas habilidades técnicas e minha visão profissional na área de tecnologia.
+
+📌 Java • Python • POO • Backend Development • Cloud Computing • AWS • Linux
