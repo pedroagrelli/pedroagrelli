@@ -1,6 +1,6 @@
 Pedro Agrelli
 
-▶️ Ciência da Computação | Java | Cloud AWS | Backend em formação | DevOps em evolução
+Ciência da Computação | Java | Cloud AWS | Backend em formação | DevOps em evolução
 
 Sou estudante de Ciência da Computação com foco em desenvolvimento Backend e Cloud Computing. Atualmente aprofundo meus estudos em Java, Programação Orientada a Objetos e estruturas de dados, construindo uma base sólida em desenvolvimento de software.
 
