@@ -3,7 +3,8 @@
 **`Cloud Computing | Backend | DevOps`**
 
 ### Estudante de Engenharia de Software com foco em Cloud Computing e DevOps 
-#### AWS, Python, Linux e backend. AWS Certified Cloud Practitioner e busco evoluir cada vez mais na área de Cloud e infraestrutura. Apaixonado por Tecnologia. 
+#### AWS, Python, Linux e backend. AWS Certified Cloud Practitioner e busco evoluir cada vez mais na área de Cloud e infraestrutura. 
+#### Apaixonado por Tecnologia, música e surf
 
 
 
